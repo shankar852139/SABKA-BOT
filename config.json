@@ -7,12 +7,13 @@
     "autoClean": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "ddoserlayertop@gmail.com",
+    "PASSWORD": "thanh724",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
-    "ADMINBOT": [],
+    "BOTNAME": "ʙᴏᴛ•ᴠɪᴘᴘʀᴏ•ᴄᴜᴀ•ᴛʜᴀɴʜᴅᴀɴɢʟᴀᴄʟᴜɪ ",
+    "PREFIX": "/",
+    "ADMINBOT": "100087983876635",
+"100088843067313"   ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
